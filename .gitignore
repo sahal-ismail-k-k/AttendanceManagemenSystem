@@ -1,0 +1,13 @@
+# SQLite Database
+database.sqlite
+
+# Server log files
+error_log.txt
+
+# Student profile photos and uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# Captured attendance photos
+students/*
+!students/.gitkeep
