@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: attendance-management-system
+    runtime: php
+    buildCommand: ""
+    startCommand: ""
